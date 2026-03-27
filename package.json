@@ -1,0 +1,22 @@
+{
+  "name": "cartmanager-cours-test",
+  "version": "1.0.0",
+  "main": "cartManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godlonx/cartManager-cours-test.git"
+  },
+  "author": "Godlonx, EtienneLm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Godlonx/cartManager-cours-test/issues"
+  },
+  "homepage": "https://github.com/Godlonx/cartManager-cours-test#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
